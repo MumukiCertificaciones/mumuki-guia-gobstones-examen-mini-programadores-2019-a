@@ -1,8 +1,9 @@
 ---
-name: Examen Mini Programadores 2019 a
+name: Examen Mini Programadores 2019 - 4to grado
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
